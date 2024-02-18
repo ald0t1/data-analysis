@@ -1,0 +1,169 @@
+id,text,label
+1,"This movie was amazing!",pos
+2,"I didn't like this film.",neg
+3,"The acting was terrible.",neg
+4,"The plot was confusing.",neg
+5,"I loved every moment of it!",pos
+6,"The direction was superb.",pos
+7,"The screenplay was boring.",neg
+8,"The ending was unexpected.",pos
+9,"It's one of the best movies I've seen.",pos
+10,"I wouldn't recommend it to anyone.",neg
+11,"Great performances by the actors.",pos
+12,"The story lacked depth.",neg
+13,"I was disappointed by the ending.",neg
+14,"The special effects were impressive.",pos
+15,"The pacing was slow.",neg
+16,"A thrilling ride from start to finish.",pos
+17,"The dialogue felt forced.",neg
+18,"The cinematography was breathtaking.",pos
+19,"The characters were well-developed.",pos
+20,"The soundtrack added to the atmosphere.",pos
+21,"I couldn't stop laughing.",pos
+22,"The editing was choppy.",neg
+23,"I couldn't get into the story.",neg
+24,"The film exceeded my expectations.",pos
+25,"The acting felt unnatural.",neg
+26,"I was on the edge of my seat.",pos
+27,"The script was weak.",neg
+28,"I was moved to tears.",pos
+29,"The pacing was perfect.",pos
+30,"I found the movie forgettable.",neg
+31,"The movie was a waste of time.",neg
+32,"The plot twist was unexpected.",pos
+33,"The characters were one-dimensional.",neg
+34,"The movie kept me guessing.",pos
+35,"I couldn't suspend my disbelief.",neg
+36,"The performances fell flat.",neg
+37,"The movie dragged on.",neg
+38,"I was captivated by the story.",pos
+39,"The movie was thought-provoking.",pos
+40,"I couldn't take it seriously.",neg
+41,"The visuals were stunning.",pos
+42,"The dialogue was witty.",pos
+43,"The movie was a masterpiece.",pos
+44,"The plot was predictable.",neg
+45,"I was disappointed by the lack of originality.",neg
+46,"The movie was a rollercoaster of emotions.",pos
+47,"The film left me wanting more.",pos
+48,"The pacing was too slow.",neg
+49,"The movie had a strong emotional impact.",pos
+50,"I found the characters relatable.",pos
+51,"The story was engaging.",pos
+52,"The movie was a letdown.",neg
+53,"The cinematography was top-notch.",pos
+54,"The movie fell short of my expectations.",neg
+55,"The plot was convoluted.",neg
+56,"The movie was a bore.",neg
+57,"The movie was filled with suspense.",pos
+58,"The characters were compelling.",pos
+59,"The movie was entertaining.",pos
+60,"The dialogue was cringeworthy.",neg
+61,"The special effects were lackluster.",neg
+62,"The movie was a visual feast.",pos
+63,"The story was poorly executed.",neg
+64,"The movie was gripping.",pos
+65,"I was impressed by the performances.",pos
+66,"The movie was a snooze fest.",neg
+67,"The film was a work of art.",pos
+68,"The movie was too long.",neg
+69,"I couldn't put it down.",pos
+70,"The movie was laughably bad.",neg
+71,"The movie was worth every penny.",pos
+72,"The acting was wooden.",neg
+73,"The movie was a tearjerker.",pos
+74,"The movie was a disaster.",neg
+75,"The movie was beautifully shot.",pos
+76,"I was blown away by the special effects.",pos
+77,"The movie was a masterpiece of storytelling.",pos
+78,"The film was emotionally resonant.",pos
+79,"The movie was a letdown.",neg
+80,"The movie was a thrill ride from start to finish.",pos
+81,"The movie was poorly directed.",neg
+82,"The movie was a triumph.",pos
+83,"The movie was a waste of time.",neg
+84,"The movie was a visual spectacle.",pos
+85,"The movie was a train wreck.",neg
+86,"The movie was a rollercoaster of emotions.",pos
+87,"The movie was a page-turner.",pos
+88,"The movie was poorly written.",neg
+89,"The movie was a disappointment.",neg
+90,"The movie was a nail-biter.",pos
+91,"The movie was a letdown.",neg
+92,"The movie was a waste of talent.",neg
+93,"The movie was a cinematic marvel.",pos
+94,"The movie was a flop.",neg
+95,"The movie was a tearjerker.",pos
+96,"The movie was a triumph.",pos
+97,"The movie was a thrill ride from start to finish.",pos
+98,"The movie was a rollercoaster of emotions.",pos
+99,"The movie was a page-turner.",pos
+100,"The movie was a visual feast.",pos
+101,"The movie was a disaster.",neg
+102,"The movie was a bore.",neg
+103,"The movie was a disappointment.",neg
+104,"The movie was a masterpiece.",pos
+105,"The movie was a letdown.",neg
+106,"The movie was a waste of time.",neg
+107,"The movie was a triumph.",pos
+108,"The movie was a waste of talent.",neg
+109,"The movie was a cinematic marvel.",pos
+110,"The movie was a flop.",neg
+111,"The movie was a tearjerker.",pos
+112,"The movie was a rollercoaster of emotions.",pos
+113,"The movie was a page-turner.",pos
+114,"The movie was a visual feast.",pos
+115,"The movie was a disaster.",neg
+116,"The movie was a bore.",neg
+117,"The movie was a disappointment.",neg
+118,"The movie was a masterpiece.",pos
+119,"The movie was a letdown.",neg
+120,"The movie was a waste of time.",neg
+121,"The movie was a triumph.",pos
+122,"The movie was a waste of talent.",neg
+123,"The movie was a cinematic marvel.",pos
+124,"The movie was a flop.",neg
+125,"The movie was a tearjerker.",pos
+126,"The movie was a triumph.",pos
+127,"The movie was a thrill ride from start to finish.",pos
+128,"The movie was a rollercoaster of emotions.",pos
+129,"The movie was a page-turner.",pos
+130,"The movie was a visual feast.",pos
+131,"The movie was a disaster.",neg
+132,"The movie was a bore.",neg
+133,"The movie was a disappointment.",neg
+134,"The movie was a masterpiece.",pos
+135,"The movie was a letdown.",neg
+136,"The movie was a waste of time.",neg
+137,"The movie was a triumph.",pos
+138,"The movie was a waste of talent.",neg
+139,"The movie was a cinematic marvel.",pos
+140,"The movie was a flop.",neg
+141,"The movie was a tearjerker.",pos
+142,"The movie was a rollercoaster of emotions.",pos
+143,"The movie was a page-turner.",pos
+144,"The movie was a visual feast.",pos
+145,"The movie was a disaster.",neg
+146,"The movie was a bore.",neg
+147,"The movie was a disappointment.",neg
+148,"The movie was a masterpiece.",pos
+149,"The movie was a letdown.",neg
+150,"The movie was a waste of time.",neg
+151,"The movie was a triumph.",pos
+152,"The movie was a waste of talent.",neg
+153,"The movie was a cinematic marvel.",pos
+154,"The movie was a flop.",neg
+155,"The movie was a tearjerker.",pos
+156,"The movie was a triumph.",pos
+157,"The movie was a thrill ride from start to finish.",pos
+158,"The movie was a rollercoaster of emotions.",pos
+159,"The movie was a page-turner.",pos
+160,"The movie was a visual feast.",pos
+161,"The movie was a disaster.",neg
+162,"The movie was a bore.",neg
+163,"The movie was a disappointment.",neg
+164,"The movie was a masterpiece.",pos
+165,"The movie was a letdown.",neg
+166,"The movie was a waste of time.",neg
+167,"The movie was a triumph.",pos
+168,"The movie was a waste of talent.",neg
