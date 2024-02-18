@@ -14,6 +14,7 @@ This notebook demonstrates how to perform sentiment analysis using PySpark and E
    ```bash
    docker-compose up -d
    ```
+5. Install any python dependecy on workers (ex. ```/opt/bitnami/python/bin/python -m pip install --no-cache-dir numpy```)
 4. Open the notebook `nootebook.ipynb` in Jupyter Notebook (http://localhost:8888).
 5. Run the notebook with some sample data (ex data.csv).
 6. Create visualisation on Kibana UI (http://localhost:5601).
